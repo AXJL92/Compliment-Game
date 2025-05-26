@@ -1,6 +1,6 @@
-The Compliment Tracker is a small web-based app that allows users to log compliments they've given or received. It’s designed to encourage positivity and reflection by keeping a running list of kind words.
+The **Compliment Tracker** is a small web-based app that lets users log compliments they've given or received.  
 
-Built using HTML, CSS, and JavaScript, it works right in your browser – no login or downloads required.
+It's built using **HTML**, **CSS**, and **JavaScript**, and runs entirely in your browser — no downloads or logins required.
 
 
 This app is entirely front-end, so nothing is stored on a server.
